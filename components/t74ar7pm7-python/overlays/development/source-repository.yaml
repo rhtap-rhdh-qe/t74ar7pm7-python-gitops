@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: t74ar7pm7-python-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/t74ar7pm7-python
